@@ -1,0 +1,1 @@
+Provides an implementation of the class LinkedList using Generic type, and provides an implementation of ListNode and Node.
